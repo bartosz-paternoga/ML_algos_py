@@ -1,2 +1,1 @@
-# ML_algos_py
-ML_algos_py
+Machine learning algorithms with python
